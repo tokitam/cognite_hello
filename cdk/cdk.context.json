@@ -1,0 +1,15 @@
+{
+  "hosted-zone:account=749929395433:domainName=tokita202603.com:region=us-east-1": {
+    "Id": "/hostedzone/Z087417112KQDIURXB42S",
+    "Name": "tokita202603.com."
+  },
+  "hosted-zone:account=749929395433:domainName=tokita202603.com:region=ap-northeast-1": {
+    "Id": "/hostedzone/Z087417112KQDIURXB42S",
+    "Name": "tokita202603.com."
+  },
+  "availability-zones:account=749929395433:region=ap-northeast-1": [
+    "ap-northeast-1a",
+    "ap-northeast-1c",
+    "ap-northeast-1d"
+  ]
+}
